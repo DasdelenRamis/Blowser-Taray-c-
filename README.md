@@ -1,2 +1,3 @@
 # Blowser-Taray-c-
-az ram harcayan bir öğrenci projesi olan tarayıcı
+Az Ram Harcayan Bir Öğrenci Projesi Olan Tarayıcı
+Biytag
